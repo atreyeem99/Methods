@@ -8,3 +8,7 @@ SCF calculations doesn't account for SCS and SOS and just PBE separately. Also i
 The simplest way to perform a DLPNO based STEOM calculation is via the usage of the STEOM-DLPNO-CCSD
 keyword, together with the specification of the desired number of roots. The specification of an auxiliary
 basis set is also required, just as for ground state DLPNO-CCSD calculations.
+## Double hybrid functional
+## Normal dft methods
+## wave function correlation methods
+
