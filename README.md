@@ -9,6 +9,8 @@ The simplest way to perform a DLPNO based STEOM calculation is via the usage of 
 keyword, together with the specification of the desired number of roots. The specification of an auxiliary
 basis set is also required, just as for ground state DLPNO-CCSD calculations.
 ## Double hybrid functional
+examples: 
 ## Normal dft methods
+Examples
 ## wave function correlation methods
 
