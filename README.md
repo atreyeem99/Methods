@@ -12,5 +12,6 @@ basis set is also required, just as for ground state DLPNO-CCSD calculations.
 examples: 
 ## Normal dft methods
 Examples
-## wave function correlation methods
+## wave function correlation method
+## ADC2 and PBE-QIDH
 
