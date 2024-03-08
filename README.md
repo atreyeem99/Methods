@@ -14,4 +14,4 @@ examples:
 Examples
 ## wave function correlation method
 ## ADC2 and PBE-QIDH
-
+## ADC2 takes a lot of time
