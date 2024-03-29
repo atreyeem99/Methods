@@ -9,7 +9,39 @@ The simplest way to perform a DLPNO based STEOM calculation is via the usage of 
 keyword, together with the specification of the desired number of roots. The specification of an auxiliary
 basis set is also required, just as for ground state DLPNO-CCSD calculations.
 ## Double hybrid functional
-examples: 
+examples: B2PLYP
+mPW2PLYP
+B2GP-PLYP
+PWPB95
+PBE-QIDH
+PBE0-DH
+PBE0-2
+DSD-BLYP
+DSD-PBEP86
+DSD-PBEB95
+wB2PLYP
+wB2GP-PLYP
+RSX-QIDH
+RSX-0DH
+wB88PP86
+wPBEPP86
+wB97X-2
+SCS_SOS-B2PLYP21
+SCS-PBE-QIDH
+SOS-PBE-QIDH
+SCS-B2GP-PLYP21
+SOS-B2GP-PLYP21
+SCS_SOS-wB2PLYP
+SCS-wB2GP-PLYP
+SOS-wB2GP-PLYP
+SCS-RSX-QIDH
+SOS-RSX-QIDH
+SCS-wB88PP86
+SOS-wB88PP86
+SCS-wPBEPP86
+SOS-wPBEPP86
+
+
 ## Normal dft methods
 Examples
 ## wave function correlation method
