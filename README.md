@@ -43,6 +43,7 @@ SOS-wPBEPP86
 
 
 ## Normal dft methods
+CAM-B3LYP
 Examples
 ## wave function correlation method
 ## ADC2 and PBE-QIDH
