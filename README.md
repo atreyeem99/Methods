@@ -43,8 +43,32 @@ SOS-wPBEPP86
 
 
 ## Normal dft methods
+VWN5
+PWLDA
+BP86
+BLYP
+PW91
+PBE
+mPWPW
+mPWLYP
+B3LYP
+PBE0
+X3LYP
+mPW1PW
+mPW1LYP
+BHANDHLYP
+TPSS
+TPSSh
+TPSS0
+M06L
+M062X
+wB97
+wB97X
+wB97X-D3
 CAM-B3LYP
-Examples
+LC-BLYP
+LC-PBE
+
 ## wave function correlation method
 ## ADC2 and PBE-QIDH
 ## ADC2 takes a lot of time
